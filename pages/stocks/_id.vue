@@ -2,7 +2,7 @@
   <div class="body col-12">
   	<div class="section">
 	  	<div class="section-header">
-		  	{{$route.params.id == 1 ? 'Холодильный шкаф A-2' : 'Холодильный шкаф B-2'}}
+		  	{{title}}
 		  </div>
   		<div class="section-body stock_id col-12">
 
